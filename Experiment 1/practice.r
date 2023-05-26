@@ -1,0 +1,15 @@
+library(tidyverse)
+library(magrittr)
+library(reshape2)
+library(rjags)
+library(coda)
+library(lattice)
+library(broom)
+library(ggpubr)
+library(ggmcmc)
+
+nR_S1 <- c(52,32,35,37,26,12,4,2)
+nR_S2 <- c(2,5,15,22,33,38,40,45)
+
+source("Function_metad_indiv.R")
+output <- metad_indiv(nR_S1 = nR_S1, nR_S2 = nR_S2)
