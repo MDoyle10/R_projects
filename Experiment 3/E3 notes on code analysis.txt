@@ -1,0 +1,7 @@
+Experiment 3 (Data set 7)
+Right vs Left - Doesnt matter for output files
+List 1 vs 2 - For counterbalancing purposes
+Exclusion list - Performance(19,21,22,24,36,37), Metacognition(4,12,20,22,35,37,39)
+Correlations - List 1 and List 2 are words or pictures depending on counterbalancing (have included 	a check for this)
+
+Outliers - done
